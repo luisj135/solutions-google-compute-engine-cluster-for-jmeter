@@ -1,0 +1,73 @@
+2016/09/27 10:53:49 INFO  - jmeter.util.JMeterUtils: Setting Locale to es_ES 
+2016/09/27 10:53:50 INFO  - jmeter.util.JMeterUtils: Could not find resources for 'es_ES', using 'es' 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: Loading user properties from: /Users/luis/Desktop/jmeterclouster/apache-jmeter-2.9-client/bin/user.properties 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: Loading system properties from: /Users/luis/Desktop/jmeterclouster/apache-jmeter-2.9-client/bin/system.properties 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: Setting System property: java.rmi.server.hostname=127.0.0.1 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: Copyright (c) 1998-2013 The Apache Software Foundation 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: Version 2.9 r1437961 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: java.version=1.7.0_79 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: os.arch=x86_64 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: os.version=10.11.6 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: Default Locale=español (España) 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: JMeter  Locale=español (España) 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: JMeterHome=/Users/luis/Desktop/jmeterclouster/apache-jmeter-2.9-client 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: user.dir  =/Users/luis/Desktop/jmeterclouster 
+2016/09/27 10:53:50 INFO  - jmeter.JMeter: PWD       =/Users/luis/Desktop/jmeterclouster 
+2016/09/27 10:53:51 INFO  - jmeter.JMeter: IP: 192.168.0.39 Name: MacBook-Pro-de-Luis.local FullName: 192.168.0.39 
+2016/09/27 10:53:51 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2016/09/27 10:54:00 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/09/27 10:54:00 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/09/27 10:54:02 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System] 
+2016/09/27 10:54:06 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/09/27 10:54:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2016/09/27 10:54:13 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/09/27 10:54:13 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/09/27 10:54:13 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2016/09/27 10:54:13 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2016/09/27 10:54:21 INFO  - jmeter.services.FileServer: Default base='/Users/luis/Desktop/jmeterclouster' 
+2016/09/27 10:54:21 INFO  - jmeter.gui.action.Load: Loading file: /Users/luis/Desktop/jmeterclouster/merqueo_cluster.jmx 
+2016/09/27 10:54:21 INFO  - jmeter.services.FileServer: Set new base='/Users/luis/Desktop/jmeterclouster' 
+2016/09/27 10:54:22 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/09/27 10:54:22 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/09/27 10:54:22 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1427507 
+2016/09/27 10:54:22 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.4 
+2016/09/27 10:54:22 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/09/27 10:54:31 INFO  - jmeter.services.FileServer: Set new base='/Users/luis/Desktop/jmeterclouster' 
+2016/09/27 10:54:52 INFO  - jmeter.gui.action.RemoteStart: Initialising remote engine: 127.0.0.1:24000 
+2016/09/27 10:54:57 INFO  - jmeter.gui.action.RemoteStart: Initialising remote engine: 127.0.0.1:24001 
+2016/09/27 10:55:01 INFO  - jmeter.gui.action.RemoteStart: Initialising remote engine: 127.0.0.1:24002 
+2016/09/27 10:55:06 INFO  - jmeter.engine.ClientJMeterEngine: running clientengine run method 
+2016/09/27 10:55:06 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:06 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:06 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:27 INFO  - jmeter.engine.ClientJMeterEngine: sent test to 127.0.0.1:24000 basedir='.' 
+2016/09/27 10:55:27 INFO  - jmeter.engine.ClientJMeterEngine: Sending properties {} 
+2016/09/27 10:55:28 INFO  - jmeter.engine.ClientJMeterEngine: sent run command to 127.0.0.1:24000 
+2016/09/27 10:55:28 INFO  - jmeter.engine.ClientJMeterEngine: running clientengine run method 
+2016/09/27 10:55:28 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:28 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:28 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:32 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,127.0.0.1:24000) 
+2016/09/27 10:55:49 INFO  - jmeter.engine.ClientJMeterEngine: sent test to 127.0.0.1:24001 basedir='.' 
+2016/09/27 10:55:49 INFO  - jmeter.engine.ClientJMeterEngine: Sending properties {} 
+2016/09/27 10:55:49 INFO  - jmeter.engine.ClientJMeterEngine: sent run command to 127.0.0.1:24001 
+2016/09/27 10:55:49 INFO  - jmeter.engine.ClientJMeterEngine: running clientengine run method 
+2016/09/27 10:55:49 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:49 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:49 INFO  - jmeter.samplers.StatisticalSampleSender: Using StatisticalSampleSender (client settings) for this run. Thresholds: num=100, time=60000. Key uses ThreadName: false 
+2016/09/27 10:55:52 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,127.0.0.1:24001) 
+2016/09/27 10:56:02 INFO  - jmeter.engine.ClientJMeterEngine: sent test to 127.0.0.1:24002 basedir='.' 
+2016/09/27 10:56:02 INFO  - jmeter.engine.ClientJMeterEngine: Sending properties {} 
+2016/09/27 10:56:03 INFO  - jmeter.engine.ClientJMeterEngine: sent run command to 127.0.0.1:24002 
+2016/09/27 10:56:07 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,127.0.0.1:24002) 
+2016/09/27 11:21:24 INFO  - jmeter.util.JMeterUtils: Setting Locale to fr 
+2016/09/27 11:21:28 INFO  - jmeter.util.JMeterUtils: Setting Locale to en 
